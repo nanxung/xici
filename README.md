@@ -2,8 +2,8 @@
 构建自己的代理ip池<br>
 <h1>使用方法</h1><br>
 设置自己的数据库信息<br>
-创建数据库create database xici;<br
-创建表create table xc;<br>
+创建数据库create database xici<br>
+创建表create table xc<br>
 根据xc.py中的<br><br>
 self.con=pymysql.Connect(<br>
             host='127.0.0.1',<br>
